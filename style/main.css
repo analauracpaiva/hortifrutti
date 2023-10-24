@@ -47,3 +47,30 @@ body {
     margin: 0% 5%;
 }
 
+.perguntas{
+    background-color: #EDEAE8;
+    color: #130A02;
+    padding: 2% 10%;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.q{
+    line-height: 180%;
+    font-family: 'DM Sans';
+    font-size: 110%;
+    color: #130A02;
+    justify-content: center;
+}
+
+.produtos{
+    background-color: #EDEAE8;
+    color: #130A02;
+    padding: 2% 10%;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 110%;
+    align-items: center;
+
+}
