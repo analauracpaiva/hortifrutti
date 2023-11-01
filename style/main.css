@@ -6,6 +6,7 @@ body {
     flex-direction: column;
     font-family: 'DM Sans', sans-serif;
     color: #130A02;
+    background-color: aquamarine;
 }
 .main{
     display: flex;
